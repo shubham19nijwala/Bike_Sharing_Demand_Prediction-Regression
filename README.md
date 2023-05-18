@@ -1,5 +1,7 @@
 # Bike_Sharing_Demand_Prediction-Regression
 
+![img_tx_el_paso_suncycle_bike_share](https://github.com/shubham19nijwala/Bike_Sharing_Demand_Prediction-Regression/assets/130289158/96bbf1ff-b20b-46ca-bd36-9a150cec4bf7)
+
 # OBJECTIVE
 
 The primary aim of this project is to develop an accurate predictive model utilizing the Seoul Bike Sharing dataset. The objective is to forecast the hourly demand for rental bikes, considering the bike count and a wide range of environmental variables recorded from December 2017 to November 2018. By leveraging advanced machine learning techniques, the model will provide reliable estimates for the number of rental bikes required per hour. The ultimate goal is to enable effective resource management and allocation, improving the efficiency of bike sharing services. Through comprehensive analysis of historical data, the project seeks to enhance planning and decision-making processes for bike rental businesses.
