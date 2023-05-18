@@ -32,4 +32,4 @@ The primary aim of this project is to develop an accurate predictive model utili
 - **Hypothesis Testing**: Utilized hypothesis testing to validate assumptions and evaluate relationships between variables.
 - **Feature Engineering & Data Pre-processing**: Engaged in feature engineering and data pre-processing to create new features and transform variables for better model performance.
 - **ML Model Implementation**: Implemented machine learning models to train and evaluate predictive algorithms for forecasting the count of rental bikes.
-- **Coclusion**: Drew conclusions and insights from the results obtained, providing recommendations and implications for bike rental businesses.
+- **Conclusion**: Drew conclusions and insights from the results obtained, providing recommendations and implications for bike rental businesses.
