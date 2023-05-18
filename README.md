@@ -6,7 +6,7 @@
 
 The primary aim of this project is to develop an accurate predictive model utilizing the Seoul Bike Sharing dataset. The objective is to forecast the hourly demand for rental bikes, considering the bike count and a wide range of environmental variables recorded from December 2017 to November 2018. By leveraging advanced machine learning techniques, the model will provide reliable estimates for the number of rental bikes required per hour. The ultimate goal is to enable effective resource management and allocation, improving the efficiency of bike sharing services. Through comprehensive analysis of historical data, the project seeks to enhance planning and decision-making processes for bike rental businesses.
 
-# DATASET USED:
+# DATASET USED
 - Date : year-month-day
 - Hour : Hour of the day (24hr fomat)
 - Temperature : Temperature in Celsius
@@ -25,7 +25,7 @@ The primary aim of this project is to develop an accurate predictive model utili
 * Total number of rows    : 8760
 * Total number of columns : 14
 
-# STEPS INVOLVED:
+# STEPS INVOLVED
 - **Data Exploring**: Explored the dataset to gain a better understanding of its structure and variables.
 - **Data Wrangling**: Performed data wrangling to clean and preprocess the data, handling missing values, outliers, and inconsistencies.
 - **Exploratory Data Analysis**: Conducted exploratory data analysis (EDA) to visualize and analyze patterns, distributions, and correlations in the data.
