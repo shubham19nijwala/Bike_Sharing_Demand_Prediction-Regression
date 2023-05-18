@@ -24,10 +24,10 @@ The primary aim of this project is to develop an accurate predictive model utili
 * Total number of columns : 14
 
 # STEPS INVOLVED:
-**Data Exploring**: Explored the dataset to gain a better understanding of its structure and variables.
-**Data Wrangling**: Performed data wrangling to clean and preprocess the data, handling missing values, outliers, and inconsistencies.
-**Exploratory Data Analysis**: Conducted exploratory data analysis (EDA) to visualize and analyze patterns, distributions, and correlations in the data.
-**Hypothesis Testing**: Utilized hypothesis testing to validate assumptions and evaluate relationships between variables.
-**Feature Engineering & Data Pre-processing**: Engaged in feature engineering and data pre-processing to create new features and transform variables for better model performance.
-**ML Model Implementation**: Implemented machine learning models to train and evaluate predictive algorithms for forecasting the count of rental bikes.
-**Coclusion**: Drew conclusions and insights from the results obtained, providing recommendations and implications for bike rental businesses.
+- **Data Exploring**: Explored the dataset to gain a better understanding of its structure and variables.
+- **Data Wrangling**: Performed data wrangling to clean and preprocess the data, handling missing values, outliers, and inconsistencies.
+- **Exploratory Data Analysis**: Conducted exploratory data analysis (EDA) to visualize and analyze patterns, distributions, and correlations in the data.
+- **Hypothesis Testing**: Utilized hypothesis testing to validate assumptions and evaluate relationships between variables.
+- **Feature Engineering & Data Pre-processing**: Engaged in feature engineering and data pre-processing to create new features and transform variables for better model performance.
+- **ML Model Implementation**: Implemented machine learning models to train and evaluate predictive algorithms for forecasting the count of rental bikes.
+- **Coclusion**: Drew conclusions and insights from the results obtained, providing recommendations and implications for bike rental businesses.
